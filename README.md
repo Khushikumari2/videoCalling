@@ -1,4 +1,3 @@
-Experience seamless, real-time video calls with direct peer-to-peer (P2P) connectivity powered by WebRTC – no central servers, just pure low-latency, high-quality communication.
 
  Key Highlights:
  Instant P2P Video Calls – No intermediaries, just smooth connections.
@@ -12,4 +11,3 @@ Experience seamless, real-time video calls with direct peer-to-peer (P2P) connec
  Backend (Signaling): Node.js / Express.js (WebSocket or Firebase-based)
  Core Technology: WebRTC API (RTCPeerConnection, RTCDataChannel)
  STUN/TURN Servers: Google STUN / Coturn (NAT traversal for global reach)
- Hosting: Vercel / Firebase / AWS ((Fast & Scalable Deployment)
