@@ -1,4 +1,4 @@
-# 📹 Video Calling App.
+# 📹 Video Calling App
 
 > A real-time peer-to-peer video calling application built with **WebRTC**, **Node.js**, and **React.js** — empowering seamless communication through the browser.
 
